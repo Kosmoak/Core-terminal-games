@@ -6,7 +6,7 @@ This repository contains three classic command-line games developed in C. Each g
 
 Test your vocabulary skills in this classic word-guessing game.
 Gameplay: Players guess the hidden word one letter at a time, with a maximum of 7 incorrect guesses allowed.
-Features: Reads words from a dictionary file (dictionary.txt).
+Features: Reads words from a dictionary file (word.txt).
           Displays visual hangman states based on incorrect guesses.
           Dynamic word display updates with correct guesses.
 
